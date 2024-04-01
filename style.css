@@ -1,0 +1,11 @@
+td,th{
+}
+.hello{
+    color: coral;
+    border: 2px solid black;
+    width:  20%;
+    background-color: yellow;
+    margin-left: 50px;
+    float: right;
+    padding-left: 30px;
+}
